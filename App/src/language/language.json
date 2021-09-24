@@ -1,0 +1,15 @@
+{
+    "en-us": {
+
+    },
+    "es-es": {
+
+    },
+    "pt-br": {
+        "commands": {
+            "start": {
+                "reply": "start command"
+            }
+        }
+    }
+}
