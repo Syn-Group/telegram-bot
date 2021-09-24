@@ -3,10 +3,14 @@
 
 <p align="center"><img src="./Assets/images/git-logo.png"></p>
 
+<div align="center">
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)</p>
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+
+![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)
+
+</div>
 
 
 <p align="center">Um bot gratuito de código aberto para Telegram desenvolvido pela <a href="https://syngroup.org/">SYN Group</a>.</p>
