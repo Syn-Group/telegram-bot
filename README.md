@@ -17,6 +17,6 @@ Este robô foi desenvolvido utilizando as bibliotecas:
 | dotenv     | 10.0.0      | 24/09/2021    |
 | grammy     | 1.3.3      | 24/09/2021    |
 
-- **fs**: Responsável por escrever no banco de dados do robô, como novos usuários e gerenciar o sistema de multi-linguagem.
+- **fs**: Responsável por escrever no banco de dados do robô, modificar informações dos usuários e gerenciar o sistema de multi-linguagem.
 - **dotenv**: Responsável por armazenar de forma segura as credenciais do robô, como a Token de acesso.
 - **grammy**: Responsável por fazer a comunicação com a API de robôs do Telegram.
