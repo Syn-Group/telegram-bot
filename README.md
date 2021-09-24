@@ -34,5 +34,5 @@ Este bot foi desenvolvido utilizando as bibliotecas:
 
 Licença MIT © [SYN Group](https://github.com/Syn-Group)
 
-[![Telegram Badge](https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thesyngroup)](https://t.me/thesyngroup) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram&nbsp;Community-000000?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thesyngroup)](https://t.me/thesyngroup) 
 [![E-mail Badge](https://img.shields.io/badge/-syn.group@pm.me-000000?style=flat-square&labelColor=6633cc&logo=protonmail&logoColor=white&link=mailto:syn.group@pm.me)](mailto:syn.group@pm.me) 
