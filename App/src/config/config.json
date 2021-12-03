@@ -1,4 +1,9 @@
-{
+{   
+    "bot": {
+        "denied": [
+            1087968824
+        ]
+    },
     "default": {
         "language": "pt-br"
     }
