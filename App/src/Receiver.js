@@ -1,3 +1,3 @@
-const bot = require('./routers/routes')
+const bot = require('./handlers/hears')
 
 module.exports = bot;
