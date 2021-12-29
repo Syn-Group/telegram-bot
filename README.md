@@ -1,7 +1,7 @@
 # <p align="center">Telegram Bot</p>
 <p align="center"><a href="https://syngroup.org/">SYN Group</a> © 2021</p>
 
-<p align="center"><img src="./Assets/images/git-logo.png"></p>
+<p align="center"><img src=".github/Assets/images/git-logo.png"></p>
 
 <div align="center">
 
