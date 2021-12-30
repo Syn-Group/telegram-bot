@@ -1,4 +1,7 @@
-exports.reply = async (ctx) => {
-    console.log(ctx.message.entities)
-    ctx.reply('λlive.')
+module.exports = {
+	name: 'start',
+	description: 'Comando START',
+	execute: (ctx) => {
+		ctx.reply('Comando start');
+	},
 };

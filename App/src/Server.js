@@ -1,4 +1,4 @@
-const bot = require('./Receiver')
+const bot = require('./App');
 
 const startup = async () => {
     await bot.start({
