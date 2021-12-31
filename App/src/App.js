@@ -12,5 +12,9 @@ fs.readdir("./commands/", async (err, files) => {
     const commandHandler = require("./handlers/commands");
     await commandHandler(err, files, bot);
 });
+fs.readdir("./events/", async (err, files) => {
+    const eventHandler = require("./handlers/events");
+    await eventHandler(err, files, bot);
+});
 
 module.exports = bot;
